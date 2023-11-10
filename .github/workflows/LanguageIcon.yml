@@ -18,7 +18,7 @@ jobs:
       - name: generate language icon
         uses: lowlighter/metrics@latest
         with:
-          filename: ./assets/metrics.plugin.topics.icons.svg
+          filename: metrics.plugin.topics.icons.svg
           token: NOT_NEEDED
           base: ""
           plugin_topics: yes
